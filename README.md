@@ -1,1 +1,0 @@
-# Tequedlabs-InternshipManagementSystem
